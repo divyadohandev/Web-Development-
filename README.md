@@ -45,6 +45,15 @@ A simple landing page built using Flexbox featuring:
 * Hover effects
 * Flexbox layout techniques
 
+### 3. Grid Gallery Project
+
+A photo gallery built using CSS Grid featuring:
+
+* 3-column grid layout
+* Image gallery design
+* Grid spacing using gap
+* Responsive image styling
+* Rounded corners and hover effects
 
 ## Goals
 

@@ -36,6 +36,16 @@ A responsive card layout built using HTML and CSS featuring:
 * Buttons
 * Responsive design
 
+### 2. Flexbox Navbar Project
+
+A simple landing page built using Flexbox featuring:
+
+* Responsive navigation bar
+* Hero section
+* Hover effects
+* Flexbox layout techniques
+
+
 ## Goals
 
 * Become a Software Engineer

@@ -62,8 +62,8 @@ let numbers = [2, 4, 6];
 /* for (initphase, condition, increment) */
 
 for ( let l = 0; l < numbers.length; l++ ) {
-     // takeNumber = numbers[l] * 2;
-     // multipliedNumbers.push(takeNumber);
+      takeNumber = numbers[l] * 2;
+      multipliedNumbers.push(takeNumber);
 
    multipliedNumbers.push(numbers[l] * 2);
 

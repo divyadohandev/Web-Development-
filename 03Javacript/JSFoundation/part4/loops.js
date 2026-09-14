@@ -95,7 +95,7 @@ let userName = prompt("Guess the game number:");
 while (userName != gameNumber) {
     userName = prompt("You entered the wrong number. Guess again:");
 }
-console.log("You guessed the correct number!");
+console.log("You guessed the correct number!");  
 
 
 

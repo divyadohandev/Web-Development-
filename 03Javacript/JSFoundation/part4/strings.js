@@ -1,7 +1,7 @@
 let str1 = "Hello World!";
 let str2 = 'JavaScript is awesome.';
 
- console.log(length(str1));
+ console.log(str1.length);
 console.log(str1[6]);
 
 let obj = {
@@ -28,11 +28,11 @@ console.log(str_1.length);
 // str.toUpperCase() , str.toLowerCase() , str.trim() (remove whitespaces) 
 
 let str3 = "ApnaCollege";
-let newStr = str.toUpperCase();
+let newStr = str3.toUpperCase();
 console.log(str3);
 console.log(newStr);
 
-str3 = str.toLowerCase();
+str3 = str3.toLowerCase();
 console.log(str3)
 
 let string = "      Apna College    JS      ";     // str.trim (remove space from front and behind)
@@ -48,14 +48,14 @@ let res = str8.concat(str9);       // str.concat (join str1 + str2)
 let res1 = str9.concat(str8);
 console.log(res);
 console.log(res1);
-console.log("I am" + str8 + str9);
+console.log("I am " + str8 + str9);
 
 let str = "hello";              // str.replace(searchVal, newVal)
 
 console.log(str.replace("h", "y"));
 
-let str = "I'm Divya"           // str.charAT(idx)
-console.log(str.charAt(4));
+let str_ = "I'm Divya"           // str.charAT(idx)
+console.log(str_.charAt(4));
 
 
 

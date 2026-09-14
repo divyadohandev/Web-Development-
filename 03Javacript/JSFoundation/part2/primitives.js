@@ -1,3 +1,6 @@
+// Primitive -> Primitive means a single, simple value. They are immutable (the value itself can't be changed).
+
+
 // Number
 
 let balance = 120;

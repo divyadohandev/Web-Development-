@@ -26,14 +26,14 @@ for (let city of cities) {
   For a given array with marks of students -> [96, 87, 76, 65, 54]. Find average marks of the entire class.
 */
 
-let marks = [96, 87, 76, 65, 54];
+let marks_ = [96, 87, 76, 65, 54];
 
 let sum = 0;
 
-for (let val of marks) {
+for (let val of marks_) {
     sum += val;
 }
-let avg = sum / marks.length;
+let avg = sum / marks_.length;
 console.log(`avg marks of the class = ${avg}`);
 
 /* Question.2
